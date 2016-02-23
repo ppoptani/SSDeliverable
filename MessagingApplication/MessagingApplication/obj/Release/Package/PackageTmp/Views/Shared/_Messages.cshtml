@@ -1,0 +1,14 @@
+﻿<table>
+ @foreach (@MessagingApplication.MessagingServiceClient.Message stt in Model)
+    {
+
+        <tr class="one">
+            <td>
+                @stt.Text
+            </td>
+            <td>
+              <input type="button" name="Delete" value="Delete" onclick="DeleteMessage(@("'"+stt.ID+"'"))" />
+            </td>
+        </tr>    
+    }
+ </table>

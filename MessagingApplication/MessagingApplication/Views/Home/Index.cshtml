@@ -1,0 +1,24 @@
+﻿@model System.Collections.Generic.List<MessagingApplication.MessagingServiceClient.Message>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+    </section>
+}
+<table>
+     <tr> 
+         <td>@Html.TextArea("Message", new { @class = "messages" , @placeholder = "Enter your message"}) </td>
+         <td><input type="button" name="Add" value="Add" onclick="AddMessage()" /></td>
+    </tr>
+    <tr>
+        <td>
+            <div id="MYMESSAGES">
+             @Html.Partial("_Messages", Model);
+            </div>
+        </td>
+    </tr>  
+
+</table>
+

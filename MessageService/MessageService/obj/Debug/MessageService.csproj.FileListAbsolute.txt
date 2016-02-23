@@ -1,0 +1,13 @@
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\MessageService.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\MessageService.pdb
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\EntityFramework.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\EntityFramework.SqlServer.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\System.Data.SQLite.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\System.Data.SQLite.EF6.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\System.Data.SQLite.Linq.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\EntityFramework.xml
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\EntityFramework.SqlServer.xml
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\bin\System.Data.SQLite.xml
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\obj\Debug\MessageService.csprojResolveAssemblyReference.cache
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\obj\Debug\MessageService.dll
+C:\Users\priya\Documents\visual studio 2012\Projects\MessageService\MessageService\obj\Debug\MessageService.pdb
